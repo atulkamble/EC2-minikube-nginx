@@ -2,6 +2,11 @@
 
 To host an application in Minikube running on an AWS EC2 instance and expose it for access from a web browser, you can follow these steps:
 
+### Clone this repository
+```
+git clone https://github.com/atulkamble/EC2-minikube-nginx.git
+cd EC2-minikube-nginx
+```
 ### Step 1: Set Up EC2 Instance
 1. **Launch an EC2 Instance**:
     - Choose an AMI (Amazon Machine Image) such as Ubuntu Server.
